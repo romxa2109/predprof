@@ -14,7 +14,7 @@
 
 ## Установка проекта
 1. Скопируйте к себе git репозиторий с помощью команды
-'git clone https://github.com/romxa2109/prefix'
+'git clone https://github.com/romxa2109/predprof'
 
 2. Запустите любой python-файл с помощью команды
 'python3 <название файла>' 
